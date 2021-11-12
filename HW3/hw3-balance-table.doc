@@ -1,0 +1,65 @@
+{\rtf1\ansi
+\deff{\fonttbl
+{\f1\fswiss\fcharset0 Helvetica;}
+{\f2\ffroman\charset0\fprg2 Times New Roman;}
+{\f3\ffswiss\charset0\fprg2 Arial;}
+{\f4\fftech\charset0\fprg2 Symbol;}
+{\f4\ffroman\charset0\fprg2 Cambria;}
+}{\colortbl
+{\red0\green0\blue0;}
+{\red255\green0\blue0;}
+{\red0\green255\blue0;}
+{\red0\green0\blue255;}
+}\paperw12240\paperh15840\widowctrl\ftnbj\fet0\sectd\linex0
+\margl1440\margr1440\margt1440\margb1440
+\titlepg\headery720\footery720
+{\footer {\pard\qc\fi0\li0 \f2\fs20 \field{\fldinst{page}} \par}}
+{\pard
+\trowd\trgaph100\trleft0 \trhdr\clvertalb\clshdrawnil\clwWidth2880\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx1
+\clvertalb\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx2
+\clvertalb\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx3
+\clvertalb\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx4
+\clvertalb\clshdrawnil\clwWidth720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx5
+\pard\qc\widctlpar\intbl\fi0\f2\fs24\b  \b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24\b Control\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24\b Treatment\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24\b Difference\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24\b   \b0\cell
+\widctlpar\intbl\row
+
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2880\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 Academic Quality\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 0.515\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 0.466\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 0.049\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24  \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2880\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 Athletic Quality\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 0.424\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 0.551\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 -0.127\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 *\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2880\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx1
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx2
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx3
+\clvertalt\clshdrawnil\clwWidth1440\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx4
+\clvertalt\clshdrawnil\clwWidth720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx5
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 Near Big Market\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 0.36\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 0.7\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 -0.34\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs24 ***\cell
+\widctlpar\intbl\row
+}
+
+}
