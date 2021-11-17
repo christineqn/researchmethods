@@ -34,6 +34,8 @@ ggplot(college_data, aes(x=Propensity.Score, fill=factor(Ranked.2017))) +
   geom_histogram() +
   scale_fill_discrete(name='Ranked 2017', labels=c('no','yes'))
 
+# Drop all observations that lie within regions containing no-overlap
+
 # Group observations into blocks based on propensity score
 blocked_college_data <- college_data %>%
   arrange(Propensity.Score) %>%
@@ -44,6 +46,11 @@ reg1 <- lm(Alumni.Donations.2018 ~ Ranked.2017 + factor(Block.Id) +
              College.Id + Academic.Quality + Athletic.Quality + Near.Big.Market,
            blocked_college_data)
 summary(reg1)
+reg2 <- lm(Alumni.Donations.2018 ~ Ranked.2017 + factor(Block.Id),
+           blocked_college_data); summary(reg2) # <--
+reg3 <- lm(Alumni.Donations.2018 ~ Ranked.2017 +
+             Academic.Quality + Athletic.Quality + Near.Big.Market,
+           blocked_college_data); summary(reg3)
 
 # Regression output:
 stargazer(reg1, type='html',
